@@ -1,0 +1,1 @@
+This is a small program that retrieves a specified number of random image links to dog pictures using the dog API
